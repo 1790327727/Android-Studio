@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_color.xml",
+        "source": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\src\\main\\res\\layout\\note_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_search_list.xml",
+        "source": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\src\\main\\res\\layout\\note_search_list.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "C:\\Users\\17903\\Documents\\Tencent Files\\1790327727\\FileRecv\\NotePad-master\\app\\src\\main\\res\\layout\\note_editor.xml"
+    }
+]
